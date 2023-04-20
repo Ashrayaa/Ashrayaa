@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
-- 🔭 I’m currently working on on **Fit Me App**
-
-- 🌱 I’m currently learning **ReactJS, enrolled to Namaste React Live Course**
 
 - 👨‍💻 All of my projects are available at [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
 
