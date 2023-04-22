@@ -29,7 +29,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ashrayaa&layout=compact&theme=onedark&column=4&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=Ashrayaa&layout=compact&theme=flat&column=4&row=1)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ashrayaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrayaa" /></a></p><br><br>
