@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
+- 👨‍💻 Have aloot at my portfolio [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@mailtoashrayaa](https://medium.com/@mailtoashrayaa)
+- 📝 I write articles on [https://medium.com/@mailtoashrayaa](https://medium.com/@mailtoashrayaa)
 
-- 💬 Ask me about **JS, ReactJS, and CSS frameworks**
+- 💬 Ask me about **JS, ReactJS, NextJS and CSS frameworks**
 
 - 📫 How to reach me **mailtoashrayaa@gmail.com**
 
