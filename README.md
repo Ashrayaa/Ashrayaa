@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
 
-- 👨‍💻 Have aloot at my portfolio [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
+- 👨‍💻 Have a looK at my portfolio [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@mailtoashrayaa](https://medium.com/@mailtoashrayaa)
 
